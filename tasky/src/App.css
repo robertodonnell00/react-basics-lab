@@ -49,6 +49,18 @@ div {
   font-weight: bold;
 }
 
+.priority.low {
+  color: green;
+}
+
+.priority.medium {
+  color: orange;
+}
+
+.priority.high {
+  color: red;
+}
+
 button {
   border: none;
   border-radius: 3px;
